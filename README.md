@@ -16,7 +16,7 @@
 ## Update History
  
 <details>
-<summary><b>(2023-09-16)</b></summary>
+<summary><b>(2023-09-16)</b></summary><br/>
 
 >> **Player**  
 >    - AnimatedSprite 추가
