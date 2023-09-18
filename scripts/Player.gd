@@ -12,9 +12,10 @@ var maxHorizontalSpeed = 140
 var maxDashSpeed = 500
 var minDashSpeed = 200
 var horizontalAcceleration = 2000
-var jumpSpeed = 360
+var jumpSpeed = 320
 var jumpTermimationMultiplier = 4
 var hasDoubleJump = false
+var hasDash = false
 var currentState = State.NORMAL
 var isStateNew = true
 var defaultHazardMask = 0
@@ -63,9 +64,13 @@ func process_normal(delta):
 	if wasOnFloor and not is_on_floor() and not Input.is_action_just_pressed("jump"):
 		$CoyoteTimer.start()
 		
-	if is_on_floor(): hasDoubleJump = true
+	if is_on_floor():
+		hasDoubleJump = true
+		hasDash = true
 	
-	if Input.is_action_just_pressed("dash"): call_deferred("change_state", State.DASHING)
+	if hasDash and Input.is_action_just_pressed("dash"):
+		call_deferred("change_state", State.DASHING)
+		hasDash = false
 		
 	update_animation()
 
