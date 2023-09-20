@@ -9,13 +9,8 @@
 >   - LevelUI 생성
 >   - 남은 Coin의 개수와 총 Coin의 개수를 보여줌
 >   - font 추가 및 가독성을 위한 테두리 설정
->    
 > **Level**
->   - Level_001 추가
->
-> **Flag**
->   - Animated Sprites, Sprite 추가
->   - 접촉 시 신호 발생
+>   - Level_001 낙사 방지 및 맵 업데이트
 ## Update History
 <details>
 <summary><b>(2023-09-18)</b></summary>
