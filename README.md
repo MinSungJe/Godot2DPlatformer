@@ -4,7 +4,7 @@
 
 ## Recent Update
 
-**(2023-09-20)**
+**(2023-09-21)**
 > **Enemy**  
 >- EnemySpawner 생성, 이제 Enemy가 일정 시간 이후 리스폰 됨
 >
