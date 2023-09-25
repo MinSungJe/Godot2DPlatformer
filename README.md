@@ -4,7 +4,24 @@
 
 ## Recent Update
 
-**(2023-09-21)**
+**(2023-09-25)**
+> **GameCamera**
+>- OpenSimplexNoise를 이용한 화면 흔들림 효과 구현 
+>
+> **Helpers (global scripts)**
+>- Helpers scripts 생성, 화면 흔들림 효과 global 지정
+>
+> **Player**  
+>- 이단 점프 시, 대쉬 시, 사망 시 화면 흔들림 효과 적용
+>
+> **Enemy**
+>- 사망 시 화면 흔들림 효과 적용
+
+
+## Update History
+<details>
+<summary><b>(2023-09-21)</b></summary>
+
 > **Enemy**  
 >- EnemySpawner 생성, 이제 Enemy가 일정 시간 이후 리스폰 됨
 >
@@ -14,8 +31,8 @@
 > **LevelComplete**
 >- 이제 Flag 도착 시 LevelComplete UI가 나옴
 >- UI 내 Next Level 버튼을 누르면 다음 레벨이 진행됨
+</details>
 
-## Update History
 <details>
 <summary><b>(2023-09-20)</b></summary>
 
