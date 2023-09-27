@@ -4,7 +4,25 @@
 
 ## Recent Update
 
-**(2023-09-25)**
+**(2023-09-27)**
+> **Particle**
+>- 각종 Effect를 위한 Particle파일 추가
+>
+> **Player**
+>- Death Animation 추가
+>- Death Effect 추가
+>- Dash Effect 추가
+>
+> **Enemy**
+>- Death Animation 추가
+>- Death Effect 추가
+>- Spawn Effect 추가
+
+
+## Update History
+<details>
+<summary><b>(2023-09-25)</b></summary>
+
 > **GameCamera**
 >- OpenSimplexNoise를 이용한 화면 흔들림 효과 구현 
 >
@@ -16,9 +34,8 @@
 >
 > **Enemy**
 >- 사망 시 화면 흔들림 효과 적용
+</details>
 
-
-## Update History
 <details>
 <summary><b>(2023-09-21)</b></summary>
 
