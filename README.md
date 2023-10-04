@@ -4,7 +4,24 @@
 
 ## Recent Update
 
-**(2023-09-27)**
+**(2023-10-04)**
+> **Player**
+>- FootstepParticles 추가
+>- 이동할 때 Particle 발생
+>
+> **TileMap**
+>- DecorativeTileMap 추가(충돌하지 않는 TileMap)
+>- ForegroungTileMap 추가(DecorativeTileMap보다 앞에 있음)
+>- 나무 지형, 버섯 지형, 돌 플랫폼, 잔디 Tile 추가
+>
+> **Cloud**
+>- 배경에 Cloud 추가
+
+
+## Update History
+<details>
+<summary><b>(2023-09-27)</b></summary>
+
 > **Particle**
 >- 각종 Effect를 위한 Particle파일 추가
 >
@@ -17,9 +34,8 @@
 >- Death Animation 추가
 >- Death Effect 추가
 >- Spawn Effect 추가
+</details>
 
-
-## Update History
 <details>
 <summary><b>(2023-09-25)</b></summary>
 
