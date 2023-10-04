@@ -11,7 +11,7 @@
 >
 > **TileMap**
 >- DecorativeTileMap 추가(충돌하지 않는 TileMap)
->- ForegroungTileMap 추가(DecorativeTileMap보다 앞에 있음)
+>- ForegroundTileMap 추가(DecorativeTileMap보다 앞에 있음)
 >- 나무 지형, 버섯 지형, 돌 플랫폼, 잔디 Tile 추가
 >
 > **Cloud**
