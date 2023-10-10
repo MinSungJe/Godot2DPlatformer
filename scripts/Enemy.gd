@@ -14,8 +14,7 @@ func _ready():
 	$HitboxArea.connect("area_entered", self, "on_hitbox_entered")
 
 func _process(delta):
-	if isSpawning:
-		return
+	if isSpawning: return
 	
 	velocity.x = (direction * maxSpeed).x
 	
