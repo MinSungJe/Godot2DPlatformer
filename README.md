@@ -4,7 +4,18 @@
 
 ## Recent Update
 
-**(2023-10-04)**
+**(2023-10-10)**
+> **Level**
+>- Level_001, Level_002 리메이크
+>- Level_003 추가
+>
+> **Enemy**
+>- Enemy 스폰 도중 이동하는 오류 수정
+
+## Update History
+<details>
+<summary><b>(2023-10-04)</b></summary>
+
 > **Player**
 >- FootstepParticles 추가
 >- 이동할 때 Particle 발생
@@ -16,9 +27,8 @@
 >
 > **Cloud**
 >- 배경에 Cloud 추가
+</details>
 
-
-## Update History
 <details>
 <summary><b>(2023-09-27)</b></summary>
 
