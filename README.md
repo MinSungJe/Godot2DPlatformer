@@ -4,15 +4,23 @@
 
 ## Recent Update
 
-**(2023-10-10)**
+**(2023-10-12)**
+> **MainMenu**
+>- MainMenu 추가
+>- MainMenu를 구성하는 AnimatedButton 추가
+
+## Update History
+<details>
+<summary><b>(2023-10-10)</b></summary>
+
 > **Level**
 >- Level_001, Level_002 리메이크
 >- Level_003 추가
 >
 > **Enemy**
 >- Enemy 스폰 도중 이동하는 오류 수정
+</details>
 
-## Update History
 <details>
 <summary><b>(2023-10-04)</b></summary>
 
