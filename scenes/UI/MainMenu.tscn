@@ -1,9 +1,8 @@
-[gd_scene load_steps=17 format=2]
+[gd_scene load_steps=16 format=2]
 
 [ext_resource path="res://resources/theme.tres" type="Theme" id=1]
 [ext_resource path="res://scenes/UI/AnimatedButton.tscn" type="PackedScene" id=2]
 [ext_resource path="res://scripts/MainMenu.gd" type="Script" id=3]
-[ext_resource path="res://scripts/GameCamera.gd" type="Script" id=4]
 [ext_resource path="res://resources/tileset.tres" type="TileSet" id=5]
 [ext_resource path="res://scenes/Clouds.tscn" type="PackedScene" id=6]
 [ext_resource path="res://scenes/GameCamera.tscn" type="PackedScene" id=7]
@@ -48,13 +47,10 @@ script = ExtResource( 3 )
 
 [node name="Node2D" type="Node2D" parent="."]
 
-[node name="GameCamera" type="Camera2D" parent="Node2D" groups=["camera"] instance=ExtResource( 7 )]
-current = true
-script = ExtResource( 4 )
-BackgroundColor = Color( 0.87451, 0.964706, 0.960784, 1 )
+[node name="GameCamera" parent="Node2D" instance=ExtResource( 7 )]
 shakeNoise = SubResource( 1 )
 
-[node name="Clouds" type="Node2D" parent="Node2D/GameCamera" instance=ExtResource( 6 )]
+[node name="Clouds" parent="Node2D/GameCamera" instance=ExtResource( 6 )]
 
 [node name="TileMap" type="TileMap" parent="Node2D"]
 tile_set = ExtResource( 5 )
@@ -88,6 +84,7 @@ offset = Vector2( 0, -18 )
 [node name="AnimatedSprite2" type="AnimatedSprite" parent="Node2D"]
 position = Vector2( 18, 54 )
 frames = SubResource( 3 )
+frame = 1
 playing = true
 centered = false
 offset = Vector2( 0, -18 )
