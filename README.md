@@ -1,17 +1,25 @@
-# Godot 2D Platformer
->Practice for Godot with making 2D Platformer Game.  
->>**Reference** : **Create a Complete 2D Platformer in the Godot Engine** by Firebelley Games [Link](https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/)  
+# 🎈 Godot 2D Platformer
+> 📗 Practice for Godot with making 2D Platformer Game.  
+>>**📌 Reference** : [**Create a Complete 2D Platformer in the Godot Engine**](https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/) by [Firebelley Games](https://www.udemy.com/user/firebelley-games/)
 
-## Recent Update
+## 📢 Recent Update
 
-**(2023-10-12)**
+**⚙ (2023-10-16)**
+> **Screen Transition**
+>- Screen Transtion 효과 추가
+>- 이제 시작버튼을 누르거나, Level이 바뀔 때 전환 효과가 발생함
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-12)</b></summary>
+
 > **MainMenu**
 >- MainMenu 추가
 >- MainMenu를 구성하는 AnimatedButton 추가
+</details>
 
-## Update History
 <details>
-<summary><b>(2023-10-10)</b></summary>
+<summary><b>⚙ (2023-10-10)</b></summary>
 
 > **Level**
 >- Level_001, Level_002 리메이크
@@ -22,7 +30,7 @@
 </details>
 
 <details>
-<summary><b>(2023-10-04)</b></summary>
+<summary><b>⚙ (2023-10-04)</b></summary>
 
 > **Player**
 >- FootstepParticles 추가
@@ -38,7 +46,7 @@
 </details>
 
 <details>
-<summary><b>(2023-09-27)</b></summary>
+<summary><b>⚙ (2023-09-27)</b></summary>
 
 > **Particle**
 >- 각종 Effect를 위한 Particle파일 추가
@@ -55,7 +63,7 @@
 </details>
 
 <details>
-<summary><b>(2023-09-25)</b></summary>
+<summary><b>⚙ (2023-09-25)</b></summary>
 
 > **GameCamera**
 >- OpenSimplexNoise를 이용한 화면 흔들림 효과 구현 
@@ -71,7 +79,7 @@
 </details>
 
 <details>
-<summary><b>(2023-09-21)</b></summary>
+<summary><b>⚙ (2023-09-21)</b></summary>
 
 > **Enemy**  
 >- EnemySpawner 생성, 이제 Enemy가 일정 시간 이후 리스폰 됨
@@ -85,7 +93,7 @@
 </details>
 
 <details>
-<summary><b>(2023-09-20)</b></summary>
+<summary><b>⚙ (2023-09-20)</b></summary>
 
 > **LevelUI**  
 >- LevelUI 생성
@@ -97,7 +105,7 @@
 </details>
 
 <details>
-<summary><b>(2023-09-18)</b></summary>
+<summary><b>⚙ (2023-09-18)</b></summary>
 
 > **Player**  
 >- 이제 플레이어가 Dash를 하면 Enemy를 처치할 수 있음
@@ -112,7 +120,7 @@
 </details>
 
 <details>
-<summary><b>(2023-09-16)</b></summary>
+<summary><b>⚙ (2023-09-16)</b></summary>
 
 > **Player**  
 >- AnimatedSprite 추가
