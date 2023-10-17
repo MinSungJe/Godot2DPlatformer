@@ -4,12 +4,20 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-16)**
+**⚙ (2023-10-17)**
+> **Pause Menu**
+>- Pause Menu 추가
+>- 이제 P나 Esc키를 통해 게임을 일시정지 할 수 있음
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-16)</b></summary>
+
 > **Screen Transition**
 >- Screen Transtion 효과 추가
 >- 이제 시작버튼을 누르거나, Level이 바뀔 때 전환 효과가 발생함
+</details>
 
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-12)</b></summary>
 
