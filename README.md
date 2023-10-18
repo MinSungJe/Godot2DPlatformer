@@ -4,12 +4,22 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-17)**
+**⚙ (2023-10-19)**
+> **Game Complete**
+>- 모든 스테이지 클리어 시 Game Complete 화면 출력
+>
+> **UI Panel Animation**
+>- 모든 UI Panel의 출력 Animation 추가
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-17)</b></summary>
+
 > **Pause Menu**
 >- Pause Menu 추가
 >- 이제 P나 Esc키를 통해 게임을 일시정지 할 수 있음
+</details>
 
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-16)</b></summary>
 
