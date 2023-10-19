@@ -10,6 +10,10 @@
 >
 > **UI Panel Animation**
 >- 모든 UI Panel의 출력 Animation 추가
+>
+> **Options Menu**
+>- Options Menu 구현 완료
+>- FullScreen 여부를 설정 가능
 
 ## 🧾 Update History
 <details>
