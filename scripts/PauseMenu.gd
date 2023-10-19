@@ -7,6 +7,8 @@ onready var panelContainerPivot = $MarginContainer/PanelContainer
 var X_
 var Y_
 
+var optionsMenuScene = preload("res://scenes/UI/OptionsMenu.tscn")
+
 func _ready():
 	continueButton.connect("pressed", self, "on_continue_pressed")
 	optionsButton.connect("pressed", self, "on_options_pressed")
@@ -32,8 +34,15 @@ func on_continue_pressed():
 	unpause()
 
 func on_options_pressed():
-	pass
+	var optionsMenuInstance = optionsMenuScene.instance()
+	add_child(optionsMenuInstance)
+	optionsMenuInstance.connect("back_pressed", self, "on_options_back_pressed")
+	$MarginContainer.visible = false
 	
 func on_quit_pressed():
 	$"/root/ScreenTransitionManager".transition_to_menu()
 	unpause()
+
+func on_options_back_pressed():
+	$OptionsMenu.queue_free()
+	$MarginContainer.visible = true
