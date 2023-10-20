@@ -4,7 +4,15 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-19)**
+**⚙ (2023-10-20)**
+> **Tutorial Sign**
+>- Tutorial Sign 구현
+>- 현재 플레이할 수 있는 모든 스테이지에 Sign 추가
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-19)</b></summary>
+
 > **Game Complete**
 >- 모든 스테이지 클리어 시 Game Complete 화면 출력
 >
@@ -14,8 +22,8 @@
 > **Options Menu**
 >- Options Menu 구현 완료
 >- FullScreen 여부를 설정 가능
+</details>
 
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-17)</b></summary>
 
