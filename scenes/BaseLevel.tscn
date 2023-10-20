@@ -35,6 +35,8 @@ tile_set = ExtResource( 1 )
 cell_size = Vector2( 18, 18 )
 format = 1
 
+[node name="Signs" type="Node2D" parent="."]
+
 [node name="Flag" parent="." instance=ExtResource( 4 )]
 
 [node name="Enemies" type="Node2D" parent="."]
