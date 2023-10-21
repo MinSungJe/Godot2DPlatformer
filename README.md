@@ -4,12 +4,20 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-20)**
+**⚙ (2023-10-21)**
+> **Player Victory Animation**
+>- Player Victory Animation 추가
+>- Player가 Flag가 닿을 시 콘페티 효과 발생
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-20)</b></summary>
+
 > **Tutorial Sign**
 >- Tutorial Sign 구현
 >- 현재 플레이할 수 있는 모든 스테이지에 Sign 추가
+</details>
 
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-19)</b></summary>
 
