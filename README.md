@@ -4,12 +4,21 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-21)**
+**⚙ (2023-10-23)**
+> **LevelComplete UI**
+>- LevelComplete UI 업데이트
+>- Level 클리어 시 먹은 동전의 개수가 표시됨
+>- Restart 버튼 추가 : 누를 시 현재 레벨을 다시 플레이 함
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-21)</b></summary>
+
 > **Player Victory Animation**
 >- Player Victory Animation 추가
 >- Player가 Flag가 닿을 시 콘페티 효과 발생
+</details>
 
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-20)</b></summary>
 
@@ -125,7 +134,7 @@
 > **Level**
 >- Level_002 추가
 >
-> **LevelComplete**
+> **LevelComplete UI**
 >- 이제 Flag 도착 시 LevelComplete UI가 나옴
 >- UI 내 Next Level 버튼을 누르면 다음 레벨이 진행됨
 </details>
