@@ -9,6 +9,10 @@
 >- LevelComplete UI 업데이트
 >- Level 클리어 시 먹은 동전의 개수가 표시됨
 >- Restart 버튼 추가 : 누를 시 현재 레벨을 다시 플레이 함
+>
+> **Mouse Cursor**
+>- Mouse Cursor 추가
+
 
 ## 🧾 Update History
 <details>

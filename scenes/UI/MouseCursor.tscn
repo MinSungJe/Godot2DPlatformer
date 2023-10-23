@@ -44,7 +44,6 @@ root_node = NodePath("../Sprite")
 anims/click = SubResource( 2 )
 
 [node name="Sprite" type="Sprite" parent="."]
-scale = Vector2( 1.5, 1.5 )
 texture = SubResource( 1 )
 centered = false
 
