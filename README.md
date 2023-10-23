@@ -12,6 +12,12 @@
 >
 > **Mouse Cursor**
 >- Mouse Cursor 추가
+>
+> **GameCamera**
+>- 시야가 50% 넓어짐
+>
+> **Player**
+>- 점프 높이 약간 감소
 
 
 ## 🧾 Update History
