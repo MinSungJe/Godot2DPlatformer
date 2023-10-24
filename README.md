@@ -4,7 +4,17 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-23)**
+**⚙ (2023-10-24)**
+> **Audio**
+>- assets에 소리 파일 추가
+>- RandomAudioStreamPlayer 구현
+>- 이제 Player가 걸을 때 걷는 소리 발생
+
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-23)</b></summary>
+
 > **LevelComplete UI**
 >- LevelComplete UI 업데이트
 >- Level 클리어 시 먹은 동전의 개수가 표시됨
@@ -18,9 +28,8 @@
 >
 > **Player**
 >- 점프 높이 약간 감소
+</details>
 
-
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-21)</b></summary>
 
