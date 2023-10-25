@@ -4,14 +4,22 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-24)**
+**⚙ (2023-10-25)**
+> **SFX**
+>- Audio Buses 구성
+>- Player가 걸을 때 나는 소리 조정
+
+
+## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-24)</b></summary>
+
 > **Audio**
 >- assets에 소리 파일 추가
 >- RandomAudioStreamPlayer 구현
 >- 이제 Player가 걸을 때 걷는 소리 발생
+</details>
 
-
-## 🧾 Update History
 <details>
 <summary><b>⚙ (2023-10-23)</b></summary>
 
