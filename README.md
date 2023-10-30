@@ -4,13 +4,20 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-25)**
+**⚙ (2023-10-30)**
 > **SFX**
->- Audio Buses 구성
->- Player가 걸을 때 나는 소리 조정
+>- PlayerDeathSound, EnemyDeathSound 추가
 
 
 ## 🧾 Update History
+<details>
+<summary><b>⚙ (2023-10-25)</b></summary>
+
+> **SFX**
+>- Audio Buses 구성
+>- Player가 걸을 때 나는 소리 조정
+</details>
+
 <details>
 <summary><b>⚙ (2023-10-24)</b></summary>
 
