@@ -4,6 +4,10 @@ var velocity = Vector2.ZERO
 var gravity = 1000
 
 func _ready():
+	$DeathSoundPlayer1.play()
+	$DeathSoundPlayer2.play()
+	$DeathSoundPlayer3.play()
+	
 	if velocity.x > 0:
 		$Visuals.scale = Vector2(-1,1)
 

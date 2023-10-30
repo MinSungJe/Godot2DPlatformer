@@ -10,7 +10,7 @@ var startDirection = Vector2.RIGHT
 
 func _ready():
 	direction = startDirection
-	$GaolDetector.connect("area_entered", self, "on_goal_entered")
+	$GoalDetector.connect("area_entered", self, "on_goal_entered")
 	$HitboxArea.connect("area_entered", self, "on_hitbox_entered")
 
 func _process(delta):
