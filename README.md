@@ -4,12 +4,26 @@
 
 ## 📢 Recent Update
 
-**⚙ (2023-10-30)**
+**⚙ (2023-10-31)**
+> **Music**
+>- Music 추가
+>
 > **SFX**
->- PlayerDeathSound, EnemyDeathSound 추가
+>- Player 대쉬 소리 추가
+>- Coin 먹는 소리 추가
+>- Level Complete 소리 추가
+>- Confetti 날리는 소리 추가
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-10-30)</b></summary>
+
+> **SFX**
+>- PlayerDeathSound, EnemyDeathSound 추가
+</details>
+
 <details>
 <summary><b>⚙ (2023-10-25)</b></summary>
 
