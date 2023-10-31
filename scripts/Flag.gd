@@ -8,3 +8,5 @@ func _ready():
 func on_area_entered(_area2d):
 	$Particles2D.emitting = true
 	emit_signal("player_won")
+	$AudioStreamPlayer.play()
+	$RandomAudioStreamPlayer.play()
