@@ -1,10 +1,35 @@
 # 🎈 Godot 2D Platformer
+![image](https://github.com/MinSungJe/Godot2DPlatformer/assets/101497652/4ba029f8-f59c-4574-b0ed-a0b7d9d77952)
 > 📗 Practice for Godot with making 2D Platformer Game.  
 >>**📌 Reference** : [**Create a Complete 2D Platformer in the Godot Engine**](https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/) by [Firebelley Games](https://www.udemy.com/user/firebelley-games/)
+>> <details>
+>><summary><b>📌 More Information about References</b></summary>
+>>
+>> Made with Godot 3.3.3 by [Firebelley](https://twitter.com/firebelley)  
+>> Assets and sounds by [Kenney](https://kenney.nl)  
+>> Music from https://opengameart.org/content/4-chiptunes-adventure
+>></details>
+
 
 ## 📢 Recent Update
+**⚙ (2023-11-01) 🎓**
+> # 🎓 Course Complete
+> **Option**
+>- Music과 SFX 소리 조절 기능 추가
+>
+> **Game Export**
+>- Icon과 대기화면 변경
+>
+> **Bug Fix**
+>- Pause시 마우스 커서와 배경음악 소리가 들리지 않던 현상 수정
+>- 처음 시작화면의 버튼 애니메이션이 잘 보이지 않던 현상 수정
 
-**⚙ (2023-10-31)**
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-10-31)</b></summary>
+
 > **Music**
 >- Music 추가
 >
@@ -13,9 +38,7 @@
 >- Coin 먹는 소리 추가
 >- Level Complete 소리 추가
 >- Confetti 날리는 소리 추가
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-10-30)</b></summary>
