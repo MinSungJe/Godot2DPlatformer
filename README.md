@@ -1,5 +1,6 @@
 # 🎈 Godot 2D Platformer
-![image](https://github.com/MinSungJe/Godot2DPlatformer/assets/101497652/4ba029f8-f59c-4574-b0ed-a0b7d9d77952)
+<p align=center><img src = "https://github.com/MinSungJe/Godot2DPlatformer/assets/101497652/4ba029f8-f59c-4574-b0ed-a0b7d9d77952" width="50%" height="50%"></p>
+
 > 📗 Practice for Godot with making 2D Platformer Game.  
 >>**📌 Reference** : [**Create a Complete 2D Platformer in the Godot Engine**](https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/) by [Firebelley Games](https://www.udemy.com/user/firebelley-games/)
 >> <details>
